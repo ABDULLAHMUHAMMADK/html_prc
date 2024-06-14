@@ -1,0 +1,228 @@
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background-color: chartreuse;
+}
+::-webkit-scrollbar-thumb {
+  background-color: black;
+  border-radius: 12px;
+}
+body {
+  background-image: url(./imgs/cvimg.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+#header {
+  border-radius: 25px;
+  height: 50px;
+  width: 1210px;
+ 
+  border: solid yellow;
+  margin-top: 35px;
+}
+.ab {
+  border: solid yellow;
+
+  margin-left: 250px;
+  margin-top: 30px;
+  /* background: transparent;   */
+  height: 250px;
+  width: 240px;
+  border-radius: 50%;
+  background-color: black;
+  background-image: url(./cvimgs/abdullah\ e.png);
+  background-size: cover;
+  background-attachment: ;
+}
+#nd {
+  text-align: center;
+  color: white;
+  border-radius: 25px;
+  border: solid yellow;
+  height: 120px;
+  width: 300px;
+  margin-left: 600px;
+  margin-top: -240px;
+}
+#nd:hover {
+  background-color: yellow;
+  color: black;
+}
+
+#abb {
+  border-radius: 19px;
+  text-align: center;
+  color: white;
+  border: solid yellow;
+  height: 69px;
+  width: 300px;
+  margin-left: 600px;
+  margin-top: 20px;
+}
+#abb:hover {
+  background-color: yellow;
+  color: black;
+}
+
+#big {
+  border-radius: 25px;
+  color: white;
+  border: solid yellow;
+  height: 900px;
+  width: 320px;
+  margin-top: 90px;
+  margin-left: 20px;
+}
+#about {
+  text-align: center;
+  border-radius: 25px;
+  border: solid yellow;
+  color: white;
+  height: 50px;
+  width: 160px;
+  margin-left: 55px;
+  margin-top: 30px;
+}
+#about:hover {
+  background-color: yellow;
+  color: black;
+}
+
+#skills {
+  border-radius: 25px;
+  text-align: center;
+  border: solid yellow;
+  width: 130px;
+  height: 50px;
+  margin-left: 66px;
+  margin-top: 42px;
+}
+#skills:hover {
+  background-color: yellow;
+  color: black;
+  /* font-size: 20px; */
+  /* vertical-align: text-bottom; */
+}
+#wts {
+  height: 30px;
+}
+a {
+  color: yellow;
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+}
+#big2 {
+  border-radius: 25px;
+  color: white;
+  border: solid yellow;
+  height: 1050px;
+  width: 500px;
+  margin-top: -905px;
+  margin-left: 550px;
+}
+#ed {
+  border-radius: 25px;
+  text-align: center;
+  border: solid yellow;
+  width: 160px;
+  height: 50px;
+  margin-left: 153px;
+  margin-top: 42px;
+}
+#ed:hover {
+  background-color: yellow;
+  color: black;
+}
+#list2 {
+  margin-left: 140px;
+}
+#wr {
+  border-radius: 25px;
+  text-align: center;
+  border: solid yellow;
+  width: 260px;
+  height: 50px;
+  margin-left: 100px;
+  margin-top: 42px;
+}
+#wr:hover {
+  background-color: yellow;
+  color: black;
+}
+
+#list3 {
+  /* border: solid white; */
+  width: 350px;
+  height: 130px;
+  margin-left: 60px;
+  margin-top: 20px;
+}
+#head1 {
+
+  width: 125px;
+  border-radius: 25px;
+  margin-left: 1060px;
+  margin-top: 15px;
+
+}
+
+#head2 {
+ 
+  width: 100px;
+  border-radius: 25px;
+  margin-left: 930px;
+  margin-top: -19px;
+ 
+}
+
+
+#head3 {
+  width: 120px;
+  border-radius: 25px;
+  margin-left: 785px;
+  margin-top: -18px;
+
+}
+
+
+#head4 {
+  
+  /* height: 25px; */
+  width: 110px;
+  border-radius: 25px;
+  margin-left: 655px;
+  margin-top: -19px;
+  
+}
+
+
+#head5 {
+  
+  width: 90px;
+  border-radius: 25px;
+  margin-left: 523px;
+  margin-top: -19px;
+  text-align: center;
+}
+
+
+#head6 {
+  
+  margin-left: 420px;
+  margin-top: -18px;
+}
+
+.btn{
+  background-color: black;
+  border: 1px solid yellow;
+  border-radius: 25px;
+  deoration
+}
+.btn:hover{
+  background-color: yellow;
+  
+}
